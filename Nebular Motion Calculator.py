@@ -1,3 +1,6 @@
+# Original use of this code: https://scholar.colorado.edu/concern/undergraduate_honors_theses/fx719n336
+
+
 ########################
 ### Preliminary code ###
 ########################
