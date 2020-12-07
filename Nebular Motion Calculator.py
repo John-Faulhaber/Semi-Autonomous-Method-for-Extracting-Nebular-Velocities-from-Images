@@ -212,7 +212,7 @@ def generateregions(oldclumps,newclumps):   # In the instance of the object of i
 ##############
 
 
-# 1091 in following calculation is distance in pc to original structure this code was made for. Alter as necessary. Units must be pc.
+# 1091 in the following calculation is distance in pc to original structure this code was made for. Alter as necessary. Units must be pc.
 # 15 in the following calculation accomodates for the ~15 year interval between the the original data this code was made for. Alter as necessary. Units must be years.
 
     tangentialvelovities=[]
