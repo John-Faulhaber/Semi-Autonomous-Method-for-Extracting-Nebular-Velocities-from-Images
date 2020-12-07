@@ -12,7 +12,7 @@ The four additional region files comprise of:
   
  - Line regions between the pre-selected corresponding ponts of interest, lebeled with the velocity of movement.
   
- - Vector regions between the pre-selected corresponding point of interest, labeled with numbers.
+ - Vector regions between the pre-selected corresponding points of interest, labeled with numbers.
   
  - Scaled vector regions between the pre-selected corresponding points of interest, labeled with numbers.  
   
