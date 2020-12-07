@@ -1,4 +1,7 @@
 # Semi-Autonomous-Method-for-Extracting-Nebular-Velocities-from-Images
+
+Original use of this code: https://scholar.colorado.edu/concern/undergraduate_honors_theses/fx719n336
+
 Calculate the velocity of movement between corresponding regions (parsec scale distances from Earth, same each) in two images (.fits) using RA and DEC coordinates, and generate a variety of graphics to represent said movement and velocity. [Python 2.7, SAOImage ds9 4.1]
 
 
